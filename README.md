@@ -9,3 +9,7 @@ Link: https://www.coursera.org/course/interactivepython1
 The course uses a web-based tool called CodeSkulptor, but just in case there are examples of code which I would like to refer back to at a later date, this would be a good lace to store that code.
 
 CodeSkulptor homepage: http://www.codeskulptor.org/
+
+A second part of the course is also available on Coursera.
+
+Link: https://www.coursera.org/course/interactivepython2
